@@ -1,2 +1,13 @@
-# CompanyJobPortal
-Company job portal to post and apply for jobs...
+# Tables in COMPANYJOBPORTAL
+
+signUp
+   - id
+   - name
+   - email
+   - phone no
+   - set password...
+
+Login 
+   - id
+   - password..
+   - ForeignKey('user.id')
